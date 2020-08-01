@@ -1,7 +1,7 @@
 # DataScienceFieldAnalysis
 Using Python and Streamlit, I created a web dashboard analyzing the data science job field in the US before the global pandemic of 2020. 
 
-In addition I have also included the Jupyter Notebook file along with the Python file. 
+In addition I have also included the Jupyter Notebook file along with the Python file. (You can view the Jupyter Notebook to get a full glance at all the charts and tables). 
 
 If you have Streamlit, you can download my file and view my data web page. Below are some images that provide a preview to my app. 
 
