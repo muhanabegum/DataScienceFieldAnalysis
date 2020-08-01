@@ -21,7 +21,7 @@ st.header("**Webpage created by Muhana Begum**")
 st.info("This dataset was found on **Kaggle** titled ***Data Analyst Jobs*** and uploaded by **Larxel**. Please check out his Kaggle page for more.")
 st.write("***Note that I have edited the csv file to be simpler and contain only relevent/important information. I hope you enjoy my analysis!***")
 
-csv_file = "C:/Users/muhan/anaconda3/lib/site-packages/streamlit/DataAnalystJobs/DataAnalystJobs.csv"
+csv_file = "https://github.com/muhanabegum/DataScienceFieldAnalysis/blob/master/DataAnalystJobs.csv"
 names = ['Job Title', 'Salary Estimate', 'Rating', 'Company Name', 'Location', 'Headquarters', 'Size', 'Industry', 'Sector', 'Revenue' ]
 rawdata = read_csv(csv_file, names=names)
 
