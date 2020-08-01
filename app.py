@@ -21,11 +21,9 @@ st.header("**Webpage created by Muhana Begum**")
 st.info("This dataset was found on **Kaggle** titled ***Data Analyst Jobs*** and uploaded by **Larxel**. Please check out his Kaggle page for more.")
 st.write("***Note that I have edited the csv file to be simpler and contain only relevent/important information. I hope you enjoy my analysis!***")
 
-@st.cache
-def get_data():
-    return pd.read_csv('https://github.com/muhanabegum/DataScienceFieldAnalysis/blob/master/DataAnalystJobs.csv')
+csv_file = "C:/Users/muhan/anaconda3/lib/site-packages/streamlit/DataAnalystJobs/DataAnalystJobs.csv"
 names = ['Job Title', 'Salary Estimate', 'Rating', 'Company Name', 'Location', 'Headquarters', 'Size', 'Industry', 'Sector', 'Revenue' ]
-rawdata = read_csv(get_data(), names=names)
+rawdata = read_csv(csv_file, names=names)
 
 st.subheader("Introduction")
 st.write("Due to the corona virus, developer & data science jobs have shown a decline as employees were laid off and hiring freezes occured. Data science/analyst positions were scraped from Glassdoor here and I will analyze the information to understand more about this field prior to the global pandemic.")
