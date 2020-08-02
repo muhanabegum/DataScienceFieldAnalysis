@@ -1,4 +1,6 @@
 # DataScienceFieldAnalysis
+To check out my app, simply click the link: https://datascience-jobs.herokuapp.com/
+
 Using Python and Streamlit, I created a web dashboard analyzing the data science job field in the US before the global pandemic of 2020. 
 
 In addition I have also included the Jupyter Notebook file along with the Python file. (You can view the Jupyter Notebook to get a full glance at all the charts and tables). 
