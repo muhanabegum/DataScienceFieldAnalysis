@@ -5,7 +5,7 @@ Using Python and Streamlit, I created a web dashboard analyzing the data analyst
 
 In addition I have also included the Jupyter Notebook file along with the Python file. (You can view the Jupyter Notebook to get a full glance at all the charts and tables). 
 
-If you have Streamlit, you can download my file and view my data web page. Below are some images that provide a preview to my app. 
+If you have Streamlit, you can download my file and also view my data web page that way. Below are some images that provide a preview to my app. 
 
 First, we have the front page. 
 ![image1](https://github.com/muhanabegum/DataScienceFieldAnalysis/blob/master/images/1.PNG)
