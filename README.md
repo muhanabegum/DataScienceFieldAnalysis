@@ -1,4 +1,4 @@
-# DataScienceFieldAnalysis
+# DataAnalystField
 To check out my app, simply click the link: https://data-analyst-jobs.herokuapp.com/
 
 Using Python and Streamlit, I created a web dashboard analyzing the data science job field in the US before the global pandemic of 2020. 
