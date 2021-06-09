@@ -10,7 +10,7 @@ from scipy.sparse import csr_matrix
 
 st.sidebar.markdown("# A Little Bit About Me")
 st.sidebar.markdown("## Hi, I'm Muhana Begum!")
-st.sidebar.markdown("I am a 2nd year electrical engineering student at the University of Waterloo and I enjoy working with data and creating visualizations, whether it's for websites, data, or simply presentations.")
+st.sidebar.markdown("I am a 2nd year computer engineering student at the University of Waterloo and I enjoy working with data and creating visualizations, whether it's for websites, data, or simply presentations.")
 st.sidebar.markdown("As a data enthusiast, I hope you enjoy this webpage/dashboard that I created where I use **Python** and **Streamlit** to present visualizations and my own personal analysis on the data science/analyst job market before the global pandemic of 2020.") 
 st.sidebar.markdown("If you have any questions, please feel free to email me at **m6begum@uwaterloo.ca**")
 st.sidebar.markdown("For more fun stuff created by me, check out my github at **www.github.com/muhanabegum** and my LinkedIn at **www.linkedin.com/in/muhana-begum**")
